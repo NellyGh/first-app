@@ -1,0 +1,12 @@
+.logos {
+    margin: 50px auto;
+    display:flex;
+    flex-wrap: wrap;
+    width:940px
+}
+
+.logos img {
+    width:145px;
+    height:80px;
+    object-fit: contain;
+}

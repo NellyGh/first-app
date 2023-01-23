@@ -1,0 +1,41 @@
+main {
+    width:100%;
+}
+
+main .text_content {
+    display: flex;
+    width: 940px;
+    gap: 100px;
+    margin: 50px auto;
+    justify-content: center;
+}
+
+main .text_content .bold_text {
+    font-size:20px;
+    font-weight: 600;
+}
+
+main .text_content p {
+    font-size:14px;
+    color:#AAAAAA;
+    text-align: justify;
+}
+
+main h2 {
+    text-align: center;
+    color: #1A1A1A;
+    font-weight: 400;
+}
+
+main .text {
+    margin: 30px auto;
+    width:640px;
+}
+
+main .text p {
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 40px;
+    color: #1A1A1A;
+    text-align: justify;
+}

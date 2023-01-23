@@ -1,0 +1,22 @@
+.products {
+    width:840px;
+    display:flex;
+    margin:90px auto;
+    gap:25px;
+}
+
+.row img {
+    width: 150px;
+    height:80px;
+    object-fit: contain;
+}
+
+.row h5 {
+    margin-top:15px;
+    line-height: 30px;
+}
+
+.row p {
+    margin-top:20px;
+    line-height: 25px;
+}

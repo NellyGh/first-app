@@ -1,0 +1,20 @@
+.images_container {
+    display: flex;
+    width: 645px;
+    justify-content: space-between;
+    margin: 50px auto;
+    flex-wrap: wrap;
+}
+
+.images_container img {
+    object-fit: contain;
+    width:300px;
+    height:220px
+}
+
+.images_container .img_text {
+    line-height:20px;
+    color: rgba(29, 31, 46, 0.7);
+    font-size:12px;
+    font-weight: 600;
+}

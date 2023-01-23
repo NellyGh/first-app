@@ -1,0 +1,25 @@
+.img_content {
+    display:flex;
+    width:640px;
+    flex-wrap: nowrap;
+    align-items: center;
+    gap:30px;
+    margin:80px auto
+}
+
+.reverse {
+    display:flex;
+    width:640px;
+    flex-wrap: nowrap;
+    flex-direction: row-reverse;
+}
+
+.img_content img {
+    width:400px;
+    height:300px;
+    object-fit: contain;
+}
+
+.img_content p {
+    margin-top:20px
+}
