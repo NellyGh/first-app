@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/NellyGh/First-app/static/css/main.df359ba7.css",
+    "main.js": "/NellyGh/First-app/static/js/main.1b921704.js",
+    "static/media/image-32.png": "/NellyGh/First-app/static/media/image-32.17bca2c938e348886188.png",
+    "static/media/image-24.png": "/NellyGh/First-app/static/media/image-24.adf04d35e186e33ec672.png",
+    "static/media/image-1.png": "/NellyGh/First-app/static/media/image-1.4a6d59b4a96a0fc94342.png",
+    "static/media/image-30.png": "/NellyGh/First-app/static/media/image-30.1e61b7b052e4c213966f.png",
+    "static/media/image-28.png": "/NellyGh/First-app/static/media/image-28.de81a5bbc24aed00b3f6.png",
+    "static/media/image-29.png": "/NellyGh/First-app/static/media/image-29.15a9e20cf260d49de77d.png",
+    "static/media/image-31.png": "/NellyGh/First-app/static/media/image-31.14da9e4e70576c729913.png",
+    "static/media/image-5.png": "/NellyGh/First-app/static/media/image-5.7c2c667bad6644b2397d.png",
+    "static/media/image-3.png": "/NellyGh/First-app/static/media/image-3.0fe068b0216d236c8851.png",
+    "static/media/image-4.png": "/NellyGh/First-app/static/media/image-4.41a99a1ad0422fcf34ea.png",
+    "static/media/image-2.png": "/NellyGh/First-app/static/media/image-2.7900f63da03b1d684914.png",
+    "index.html": "/NellyGh/First-app/index.html",
+    "main.df359ba7.css.map": "/NellyGh/First-app/static/css/main.df359ba7.css.map",
+    "main.1b921704.js.map": "/NellyGh/First-app/static/js/main.1b921704.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df359ba7.css",
+    "static/js/main.1b921704.js"
+  ]
+}
